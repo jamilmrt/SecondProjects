@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
 
 This is hitesh sir tutorials practics 
-  -Here i have created counting number of 20 amd 
-  -increasing and decreasing Number  in UI
+  - Here i have created counting number of 20 amd 
+  - increasing and decreasing Number  in UI
